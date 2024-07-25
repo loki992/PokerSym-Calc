@@ -171,3 +171,18 @@ flop = []
 draw_flop()
 
 print_table()
+
+#TODO
+# Recognizing current hands
+# Comparing hand strength
+# Determining which hand is winning at a given time
+# Resetting the entire table and deck
+# Adding the ability to select cards for each set
+# Determining the player's percentage chance of a given hand based on their hand and the table
+
+# IN THE FUTURE
+
+# Determining the percentage chance of other players' hands appearing based on the table
+# Comparing the player's chances of hands and the chances from the table for the strongest hands
+# Determining the player's chance of winning
+# Adding a gui
